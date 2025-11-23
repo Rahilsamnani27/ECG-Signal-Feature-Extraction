@@ -68,13 +68,3 @@ features_df = extraction(combined_signal)
 For an example of how to use these functions to analyze ECG signals from the PTB_XL database, please refer to the provided Jupyter notebook in this repository. This notebook was built upon the data provided by the physio.net database. For the PTB_XL dataset, please visit the [PhysioNet website](https://physionet.org/content/ptb-xl/1.0.3/).
 
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-This project is licensed under the [Apache License 2.0](http://www.apache.org/licenses/)
